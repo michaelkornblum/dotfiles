@@ -1,0 +1,9 @@
+# ignore OS files
+.DS_Store
+Thumbs.db
+
+# ignore editor backups
+*~
+
+# ignore secrets
+secret-*
