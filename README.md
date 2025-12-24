@@ -4,7 +4,7 @@ Collection of personal configuration files (dotfiles).
 
 ## Contents
 
-- shell, editor, and environment configs
+- Hyprland, Kitty, Waybar and much much more.
 
 ## Publish
 
